@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": "container",
+  "width": "600",
   "height": 300,
   "title": "Infant Mortality Rate in 2020",
   "projection": {"type": "equalEarth"},
